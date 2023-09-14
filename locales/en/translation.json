@@ -1,0 +1,22 @@
+{
+    "projectTitle": "Work Planner",
+    "today": "Today",
+    "calendar": {
+        "viewType": {
+            "Week": "Week",
+            "Month": "Month"
+        },
+        "header": {
+            "members": "Operators",
+            "places": "Places",
+            "name": "Name"
+        }
+    },
+    "navbar": {
+        "places": "Agencies",
+        "operators": "Operators"
+    },
+    "totalHours": "Total hours worked: {{hours}}",
+    "lunchBreak": "Lunch break: {{hours}}",
+    "finalHours": "Reported: {{hours}}"
+}
